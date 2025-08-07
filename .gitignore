@@ -53,3 +53,5 @@ dkms.conf
 .vscode/
 # debug information files
 *.dwo
+#automaçao
+.sh
