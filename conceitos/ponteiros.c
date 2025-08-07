@@ -22,5 +22,5 @@ int main (void) {
 
  printf("\n Depois da troca: a = %d, b = %d\n", a, b);
 
- return 0;
+return 0;
   }
